@@ -1,0 +1,16 @@
+.ant-btn-primary {
+  background-color: #36ae7a !important;
+}
+
+.ant-btn-primary:hover {
+  background-color: #27a16c !important;
+}
+
+.ant-layout .ant-layout-sider-trigger {
+  background-color: #fff !important;
+  color: #36ae7a !important;
+}
+
+.ant-layout .ant-layout-sider {
+  background-color: unset;
+}
